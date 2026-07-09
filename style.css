@@ -92,20 +92,20 @@
   margin-bottom:-10px;
 }
 
-.grid-paragraphs{
-  font-size:1.5em;
-  font-family:Merriweather, serif;
-  color:rgb(64, 81, 78);
-  margin-bottom:90px;
-  text-align:justify;
-}
-
 .grid-container{
   display:grid;
   grid-template-rows: 300px 300px;
   grid-template-columns: 300px 300px;
   column-gap:0px;
   row-gap:50px;
+  margin-bottom:90px;
+}
+
+.grid-paragraphs{
+  font-size:1.5em;
+  font-family:Merriweather, serif;
+  color:rgb(64, 81, 78);
+  text-align:justify;
 }
 
 #grid-cell1{
