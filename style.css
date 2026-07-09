@@ -97,7 +97,7 @@
   grid-template-rows: 300px 300px;
   grid-template-columns: 300px 300px;
   column-gap:0px;
-  row-gap:50px !important;
+  row-gap:50px;
   margin-bottom:90px;
 }
 
@@ -106,6 +106,7 @@
   font-family:Merriweather, serif;
   color:rgb(64, 81, 78);
   text-align:justify;
+  margin-bottom:20px;
 }
 
 #grid-cell1{
