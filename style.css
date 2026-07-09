@@ -128,7 +128,6 @@
 }
 
 #grid-cell4{
-  margin-top:10px;
   grid-area:2/2/3/3;
   order:4;
 }
