@@ -106,7 +106,6 @@
   font-family:Merriweather, serif;
   color:rgb(64, 81, 78);
   text-align:justify;
-  margin-bottom:20px;
 }
 
 #grid-cell1{
@@ -129,6 +128,7 @@
 }
 
 #grid-cell4{
+  margin-top:10px;
   grid-area:2/2/3/3;
   order:4;
 }
